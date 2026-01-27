@@ -1,0 +1,57 @@
+Core gameplay: Resource Management.
+
+Why resource management (why game)?
+- Loot / values
+	- Human loves hoarding. Even the final result is just the Loot / Score, if the process was meaningful / rewarding enough we will be happy with it.
+- Story
+	- Human loves great tales / understanding interesting mysteries. However, this is entirely outside of our current scope as of now.
+- Experience
+	- Stimulations. Human loves visuals / events that are unique from day to day life (non-realistic / rare to have). Or, experiences that we have never experienced before (this one is almost impossible for us to do)
+	- Some people seek a certain "vibe". This is not about spike of emotions, but rather a prolonged satisfaction. 
+- Control
+	- Human loves being in charged of certain thing. Sense of control give the feeling of being strong, in different ways.
+
+What we aim?
+- Mainly Loot / values. Most straightforward and simple.
+
+what resource to manage in this game?
+- Stamina*
+- Health*
+- Weight
+- Loot
+*Stamina & Health can be the same resource (Max Stamina cap by Max Health)*
+
+Why should player care these resource?
+- Stamina
+	- Ability to get out of sticky situations
+	- Able to traverse difficult terrains (depends on map generation) 
+- Health
+	- Ability to continue on playing on the round as the intended way (death player becomes a drone?)
+	- Limit Stamina (depends on one bar design or not)
+- Weight
+	- Affect Speed/Max Stamina/Stamina Regeneration (up to debate)
+- Loot
+	- Game Goal. The more, the better, but it adds contains on all the other resources.
+	- Provide limited useful abilities that cannot be called easily by other means.
+- Time
+	- There should be a limit of how long a player can linger around the same location / round.
+	- Directly affect the amount of loot players can get.
+
+External obstacles constrains
+- Environment
+	- Main Purpose: Provides conditions for risk and reward dynamics.
+	- Passive: 
+		- Bad route to Loot (Drain Stamina) / Dangerous location (Drain Health)
+	- Aggressive:
+		- Dynamic environmental hazards (maybe sth like STALKER anomalies?). Force player to relocate / retreat / leave the round.
+- Hostile Creatures
+	- Main Purpose: drain player's any type of resources, in any way.
+		- Stop player from playing the intended way / reaching their Goals (By Draining Health or Stamina / Existing around a goal)
+		- remove loot values from player (By forcing player using them / damaging loots from player)
+	- Can also be a mean to risk and reward when paired with Environment (creature guarding loots)
+- Loot
+	- Not all loot are immediately beneficial to player (good utility). Some provide great values but also are burdens for finishing the round.
+- Death
+	- Permanent (per round) resources Punishment for being careless / too aggressive.
+		- Getting Revived by Peers should not comes with 0 consequence, and should not be able revive many times.
+		- Up to debate: Reduce Max Health / Stamina?

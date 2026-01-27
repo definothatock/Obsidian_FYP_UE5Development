@@ -1,8 +1,9 @@
 #BaseNode 
 
 
-
-[[Idea Branch]]
+[[Core mechanics]]
+[[Game Flow]]
+[[Idea]]
 
 [[AI Designs]]
 [[Useful Plugins]]
