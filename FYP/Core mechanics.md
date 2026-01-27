@@ -1,6 +1,6 @@
-Core gameplay: Resource Management.
+# Core Gameplay: Resource Management
 
-Why resource management (why game)?
+Why resource management (why game/fun)?
 - Loot / values
 	- Human loves hoarding. Even the final result is just the Loot / Score, if the process was meaningful / rewarding enough we will be happy with it.
 - Story
@@ -14,12 +14,15 @@ Why resource management (why game)?
 What we aim?
 - Mainly Loot / values. Most straightforward and simple.
 
-what resource to manage in this game?
-- Stamina*
-- Health*
-- Weight
-- Loot
-*Stamina & Health can be the same resource (Max Stamina cap by Max Health)*
+what are the main resources to manage in this game?
+- Stamina^1
+- Health^1
+- Loot^2
+- Time
+- Weight^3
+ *Stamina & Health can be the same resource (Max Stamina cap by Max Health, like Peak)* ^1
+*Inventory Space does not count as the main resource to manage. There is no direct consequence of using up all spaces.*^2
+*Weight may more may not be a thing, it depends on the consequence.* ^3
 
 Why should player care these resource?
 - Stamina
@@ -28,14 +31,14 @@ Why should player care these resource?
 - Health
 	- Ability to continue on playing on the round as the intended way (death player becomes a drone?)
 	- Limit Stamina (depends on one bar design or not)
-- Weight
-	- Affect Speed/Max Stamina/Stamina Regeneration (up to debate)
 - Loot
 	- Game Goal. The more, the better, but it adds contains on all the other resources.
 	- Provide limited useful abilities that cannot be called easily by other means.
 - Time
 	- There should be a limit of how long a player can linger around the same location / round.
 	- Directly affect the amount of loot players can get.
+- Weight
+	- Affect Speed/Max Stamina/Stamina Regeneration (up to debate)
 
 External obstacles constrains
 - Environment
@@ -55,3 +58,42 @@ External obstacles constrains
 	- Permanent (per round) resources Punishment for being careless / too aggressive.
 		- Getting Revived by Peers should not comes with 0 consequence, and should not be able revive many times.
 		- Up to debate: Reduce Max Health / Stamina?
+
+---
+# The Core Resource: Loot
+All decision lead to more Loots / save Loots.
+
+## Type of Loots in General:
+- Save loot
+	- almost a pick up and go, maybe a little hassle
+	- always low in value, should give a vibe or "yeah sure why not"
+- Mediocre loot
+	- Post noticeable inconvenience retrieving / carrying
+- Legendary loot
+	- Threatening retrieving / carrying condition
+	- Heavy resources cost (in any way)
+
+## Type of Loot Utilities
+Usefulness and Effectiveness almost entirely based on world building.
+- Mobility 
+	- 
+- Lethality
+	- 
+- Information
+	- 
+- 
+
+## Type of Loot inconvenience:
+- Mobility 
+	- 
+- Lethality
+
+
+
+---
+# Player's Core Placement 
+Players 
+
+
+---
+# Creatures 
