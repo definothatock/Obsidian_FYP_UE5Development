@@ -28,7 +28,7 @@ What Exit Locating (Radio Infrastructure) brings?
 - Reduce Value
 	- Finding Radio Devices != finding loot. There might be no loot along the way.
 - Utility
-	- Can talk to all player from anywhere (up to debate)
+	- Can talk to all player from anywhere while using the infrastructure (up to debate)
 	- Temporal safe house (if the Infrastructure is a building, and should not be permanent, else fight with Exit)
 
 What Scavenging strategy brings?
@@ -41,7 +41,7 @@ What Scavenging strategy brings?
 	- reverse of Splitting up.
 
 ### Indicator for Time
-Time is the only resource without explicit number indicator. And Since some events are highly ties with time,
+Time is the only resource without explicit number indicator. And Since some events are highly tied with time,
 to alert player about time (and related events/locations):
 - SFX / Music
 	- obvious sensory input / mood changer. Good for direct reminder. 
@@ -57,9 +57,9 @@ Level start -> plan scavenging strategy -> Searching (exit && loot)  -> Leave le
 
 ## Starting Phase: New Round
 - Select previous saved Loots (utilities).
-- Given per-round Tools (player might have lost it, but always replenish each round)
+- Given per-round Tools (player might have lost it, but always replenish with limited amount each round)
 	- to clue Radio device locations (they are clues to the final exit, should not be as vague as the exit)
-	- fundamental tools (e.g. beacon, for revisiting location?)
+	- baseline tools (e.g. beacon, for revisiting location? flare for indicating actions?)
 ## Main Phase: Searching
 What to Expect:
 - Risk and reward (Loot)

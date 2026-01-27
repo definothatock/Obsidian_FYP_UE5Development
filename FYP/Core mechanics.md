@@ -21,7 +21,7 @@ what are the main resources to manage in this game?
 - Time
 - Weight^3
  *Stamina & Health can be the same resource (Max Stamina cap by Max Health, like Peak)* ^1
-*Inventory Space does not count as the main resource to manage. There is no direct consequence of using up all spaces.*^2
+*Inventory Space does not count. Direct consequence should be handled by Value/Weight.*^2
 *Weight may more may not be a thing, it depends on the consequence.* ^3
 
 Why should player care these resource?
@@ -93,6 +93,12 @@ Usefulness and Effectiveness almost entirely based on world building.
 ---
 # Player's Core Placement 
 Players 
+
+### Reviving
+Requires a long 'RPC' act, within a time limit.
+Amount if Revive is hard limited (no increment life)
+Actually Dead player may play as a drone. Drone can only perform small actions (or just watching and pinging)
+If we make permanent upgrade: Actually Dead player's core must be brought to exit to regain some permanent upgrade
 
 
 ---
