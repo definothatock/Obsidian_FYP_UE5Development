@@ -34,9 +34,9 @@ What Exit Locating (Radio Infrastructure) brings?
 	- Finding Radio Devices != finding loot. There might be no loot along the way.
 - Utility
 	- Can talk to all player from anywhere while using the infrastructure (up to debate)
-	- Temporal safe house (if the Infrastructure is a building, and should not be permanent, else fight with Exit)
 	- *Need actual testing: Provide limited use device that bring back actually dead player? (too powerful?)*
 	- *Up to debate: temporal Value extraction point? reduce the risk of last moment failure?* 
+	- *Up to debate:Temporal safe house (if the Infrastructure is a building)* 
 - Gameplay anchor
 	- Clear Objective for players to plan with. It should be one of the most consistent objective in the entire game.
 	- Tower structure provides a solid directional landmark, reduce the frequency of player being 'lost in the wood'.

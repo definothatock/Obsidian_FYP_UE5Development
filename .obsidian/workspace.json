@@ -18,6 +18,30 @@
             }
           },
           {
+            "id": "b481f382b7e857ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FYP/Idea Branch/Creature.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Creature"
+            }
+          },
+          {
             "id": "e70bb083eaa2674c",
             "type": "leaf",
             "state": {
@@ -271,14 +295,14 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "2462e519c11f6509",
+  "active": "e70bb083eaa2674c",
   "lastOpenFiles": [
-    "FYP/Game Flow.md",
-    "FYP/Core mechanics.md",
+    "FYP/Idea Branch/Creature.md",
     "FYP/Idea Branch/Environment.md",
+    "FYP/Core mechanics.md",
+    "FYP/Game Flow.md",
     "FYP/Idea Branch/Scene.md",
     "FYP/Idea Branch/Music.md",
-    "FYP/Idea Branch/Creature.md",
     "FYP/FYP.md",
     "FYP/Idea Branch/Gameplay.md",
     "UE5/UE5.md",
