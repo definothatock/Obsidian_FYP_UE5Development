@@ -87,9 +87,9 @@ Tools can have/blend from these categories:
 	- Decoy? Stunner?
 - Survivability
 	- Increase the odds for a player to keep on playing.
-	- health pack? extra revive? cure curse (from tool, reviving etc)? 
+	- health pack? extra revive? cure curse (from tool, reviving etc)? smoke to break LOS?
 - Lethality
-	- Reduce Target's Survivability. 
+	- Reduce Target's Survivability. This category should be heavily governed, player can kill some but not overall powerful.
 	- Entirely up to creativity. Usually will draw some resource from player is used.
 	- as simple as fireball (1 time use, loss value), as complicated as charge up beam (requires time to do on spot charge up).
 - Information
@@ -102,9 +102,9 @@ Tools can have/blend from these categories:
 Same categories with 'Utilities', but instead the effects are not so kind to players.
 Extra category that are specific to inconvenience:
 - Fragility
-	- breaks on certain condition
+	- Damages / breaks on certain environment / owner condition
 - handling
-	- needs to treat in specific way / cannot be put in backpack
+	- needs to treat in specific way / cannot be put in backpack /  must put in hotbar
 - Availability
 	- Some Loot are awesome (good utility + low drawback), in this case they should be 'expired' after using it (reduce/lost value)
 - Inventory shape
@@ -115,21 +115,31 @@ Extra category that are specific to inconvenience:
 
 
 ---
-# Player Abilities
+# Player Dynamics
 Players 
+
+### Play tactics / style
+Player should be some what valuable by themselves in the game. Without specific condition / Loots, player should always play it 'smart' (stealth, disengage).
+
 ### Reviving
-There is a phase where player is in 'coma'.
-Reviving player from 'coma' requires a long 'CPR' act within a time limit, and the helping player cannot move.
+Cost players Time.
+There is a phase where player is in 'coma'. Reviving player from 'coma' requires a long 'CPR' act within a time limit. Other player can 'drag' or 'carry' unconscious player, but while performing the revive, the helping player cannot move. Any cancelation reset Reviving progress. Each player has only 1 reviving token each round, non replenishable (bring back from actual dead will not replenish token). 
+
 There might be tools to reduce the Time needed to revive player. But nothing should revive actual 'dead' (to emphasis urgency).
 Amount of Revives is hard limited, up to debate.
 
+Revival punishment: Reduce Max Health/Stamina?
+
 Up to debate: Free health upon finishing the round?
 ## Death
-round permanent, all loot is dropped, on spot.
+Happens when Health depleted and reviving Time ran out.
+Actual death is round permanent, all loot is dropped, on spot. Dead player becomes spectator. 
+
 - Extra: Actually Dead player may play as a drone.
 	- They cannot talk directly, but perhaps make some beep sounds? 
 	- Drone can only perform small actions (or just watching and pinging).
 	- During Major events (last player hunted by oppressor?), Drones are all deactivated (intensify stress for the lonewolf?)
+- Might increase development cycle significantly.  
 
 Dead player are revived for free at the end of each round.
 
@@ -148,24 +158,51 @@ not pioritized in development.
 Essentially, Creatures are the dynamic puzzles from the environment.
 As for now, Creatures are separated into 3 category: harmless, hostile, oppressive.
 
-### harmless
+#### harmless
 Harmless creature usually are very passive, and essentially are 'loots on the move' on framework level. 
 To player they are:
 - Lesser Tools, like some loot but less effective (Noisy bug make distraction? light bug gives some radiating light for a while?)
 - Some unique Value (normal loot does not move)
-
-### Hostile
+#### Hostile
 Almost always cost player any type of resources of ignored, even if the consequence is not immediate.  How they achieve that is up to creativity, but generally treat Hostile Creatures as ops players, they will use their **Utilities** to go against your **Resources**. This metal model allows Player to Creature back-and-forth.
-
-### Oppressive
+#### Oppressive
 This is the least prioritized, as it require serious environment building, good amount of trial-and-error to make it convincing.   
 Player literally cannot 'defeat' this type of Creature. This is to pressure player during the run, or punish player who disrespected the environment. Could draw some inspiration from actual horror games. 
 Highly tied with Time.
+
+### Working Memory system
+Most Creature will use this custom built temporary memory system. This system aims help Creatures to 'aware'.
+Workflow: AI perception -> Evaluator -> StateTree
+
+Available perceptions for AI to choose (engine provided)
+- Sight
+- Hearing
+- Touch
+- Damage
+- Prediction
+
+Function of Evaluator:
+- Convert Perception into WorkMem Entry 
+- Push Entries into WorkMem Array
+- Evaluate Array and condition
+- Throw result into StateTree
+
+Function of StateTree:
+- Perform action based on result in Evaluator
+
+*Extra: Evaluator gives utilities instead and StateTree works with some randomization. This heavily increase development cycle.*
 
 ---
 # Environmental Hazard  
 Another form of environmental dynamic puzzles.
 Highly tied with Time.
 
-There is no fixed set of categories. Environmental Hazard is more about world building, aesthetic choice or Environmental story telling.
-And since there is no aggressive act that player can perform to grand scale Hazards, Hazards should not be too lethal (one shot dead = no back and forth). Still, it should be fearful.
+Environmental Hazard is more about world building, aesthetic choice or Environmental story telling. And since there is no aggressive act that player can perform to grand scale Hazards, Hazards should not be too lethal (one shot dead = no back and forth). Still, it should be fearful.
+
+Depends on what the Hazard is, in general the Counterplay Categories (all information dependent):
+- Detect
+	- Knows where the intense area? where it is coming from?
+- Suppress
+	- Some method to reduce the effect temporarily? 
+- Exploit
+	- Risk and use the nature of the Hazard (time the knockback?)

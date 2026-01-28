@@ -1,6 +1,6 @@
 # Simple flow
 Level start -> scavenge -> Find exit  -> Leave level.
-basically Tarkov/Arc Raider without the guns.
+Tarkov/Arc Raider without the unlimited gun, repo/lethal with more map/loot dynamics (hopefully)
 
 ## Requirement:
 - Hard
@@ -9,12 +9,15 @@ basically Tarkov/Arc Raider without the guns.
 		- Can Return to Entrance as fail safe. But some punishment should be introduced (Life Support fee? no map regeneration?) 
 - Soft
 	- Time
+		- **Encourage route commitment, punishes indecision.**
 		- As time pass the environment gets harsher
 		- Even if time is up, should not be impossible and allows risk runs
 	- Exit Locating (optional)
-		- Find Radio Radio Infrastructure (Towers/Emitters helps to locate Exit. Maybe fake triangulation?)
-		- Radio devices require fixing, and fixing attract hostile creatures (should not be too annoying/frequent)
+		- **Converts time into information certainty, and creates temporal hub.**
+		- Find Radio Radio Infrastructures (more Towers/Emitters help locating Exit better. Maybe fake triangulation?)
+		- Radio devices require fixing, and failed fixing might attract hostile creatures / create hazard (should not be too annoying/frequent)
 	- Scavenging strategy
+		- **Trades coverage for rescue capability.**
 		- Player can choose to split up or stay as a pack
 
 Ultimate Balancing Goal: Value vs Time.
@@ -32,6 +35,8 @@ What Exit Locating (Radio Infrastructure) brings?
 - Utility
 	- Can talk to all player from anywhere while using the infrastructure (up to debate)
 	- Temporal safe house (if the Infrastructure is a building, and should not be permanent, else fight with Exit)
+	- *Need actual testing: Provide limited use device that bring back actually dead player? (too powerful?)*
+	- *Up to debate: temporal Value extraction point? reduce the risk of last moment failure?* 
 - Gameplay anchor
 	- Clear Objective for players to plan with. It should be one of the most consistent objective in the entire game.
 	- Tower structure provides a solid directional landmark, reduce the frequency of player being 'lost in the wood'.
@@ -114,8 +119,8 @@ The only requirement for entering Exit: Met minimum loot Value as a whole (raw s
 		- *Hoard extra Loot, for later use or pride*
 		- *Visit shop to buy certain exclusive tools (not permanent to avoid power creep?)*
 - Failing the requirement
-	- Can still Exit but suffer from loan? (must repay next round? higher quota next round?)
-	- Player should always avoid this at all cost.
+	- Can still Exit but suffer from higher quota next round?
+	- Player should always avoid this.
 
 as long the round is finished successfully (enough Value), death penalty should not be too harsh.
 
@@ -128,8 +133,9 @@ up to debate:
  - all progress in that round is lost. (some more punishment?)
  
 ### option 3?: Return to Entrance
+need actual testing.
 - Can return to Entrance as last resort / fail save option? (punishment for not even finding exist?)
-- Player might abuse? discourage Progression? discourage heroic moments? 
+- Player might abuse? discourage Progression? discourage heroic moments? erase tension?
 
 
 
@@ -138,7 +144,7 @@ Extra: There might be Artificial events during leave, to increase player stress 
  ---
 # Main Events During Runs
 There are different possible things to happen during runs.
-Since Game Flow is directed by time, it should be somewhat **predictable**, even if it is randomized.
+Since Game Flow is directed by time, it should be somewhat **predictable** (phases?), even if it is randomized.
 Thus, events are split into dependence with time:
 
 ### Time Independent / Time Weighted
