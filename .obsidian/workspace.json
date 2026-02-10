@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Art Direction.md",
+                "file": "FYP/Background-or-WorldBuilding.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -86,7 +86,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Art Direction"
+              "title": "Background-or-WorldBuilding"
             }
           },
           {
@@ -95,7 +95,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FYP/World Building.md",
+                "file": "FYP/Background-or-WorldBuilding.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -110,7 +110,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "World Building"
+              "title": "Background-or-WorldBuilding"
             }
           },
           {
@@ -161,7 +161,8 @@
               "title": "Game Flow"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -342,17 +343,22 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "3b186e69fdf01bd5",
+  "active": "7daf5a987f9caaff",
   "lastOpenFiles": [
+    "FYP/World Building.md",
+    "FYP/Background-or-WorldBuilding.md",
+    "FYP/Core mechanics.md",
+    "FYP/Custom Online Session Subsystem.md",
+    "Bin.md",
+    "test1.md",
+    "test2.md",
+    "FYP/Art Direction.md",
     "FYP/Other/DumbArse shit I've done.md",
-    "FYP/AI Design/Creature Behaviour Machine.md",
     "FYP/Idea Branch/Gameplay.md",
+    "FYP/AI Design/Creature Behaviour Machine.md",
     "FYP/Plugins/EIK.md",
-    "Art Direction.md",
     "FYP/Other/Other.md",
     "FYP/FYP.md",
-    "FYP/World Building.md",
-    "FYP/Core mechanics.md",
     "FYP/Idea Branch/Item and Loot.md",
     "FYP/Idea Branch/Creature.md",
     "FYP/Game Flow.md",
@@ -365,11 +371,6 @@
     "UE5/Engine Core/Programming/Programming.md",
     "UE5/Multi-threading/Multi-threading.md",
     "UE5/Online/Multiplayer/Voice Chat/Voice Chat.md",
-    "UE5/Online/Multiplayer/Voice Chat/VOIP.md",
-    "UE5/Online/Online SubSystem/Online SubSystem.md",
-    "Background-or-WorldBuilding.md",
-    "UE5/UE5.md",
-    "FYP/Idea Branch/Sound Reference.md",
     "UE5/Online/Replication",
     "UE5/Multi-threading",
     "FYP/Other",

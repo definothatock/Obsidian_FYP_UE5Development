@@ -146,6 +146,8 @@ Extra category that are specific to inconvenience:
 ## 'Useless' loot
 - Not poritized. Doesn't affect core gameplay, mainly for shit and giggles. Can be cosmetic too. 
 
+A very good reference about what loot to make:
+https://www.youtube.com/watch?v=Jqh7SVpMR1o
 
 ---
 # Player Dynamics
