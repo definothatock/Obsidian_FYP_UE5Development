@@ -92,7 +92,7 @@ Below are the phased that player ***will experience*** during each run, ***regar
 - Exit Plan
 
 What possible Resource Management, and Risk and reward to Expect?
-- See [[Core mechanics]]: **Resource Management** and **Loot**.
+- See [[Core Framework (rules and mechanics)]]: **Resource Management** and **Loot**.
 
 Resource Management
 - Medium for Resources?
@@ -105,6 +105,9 @@ Loot
 	- All scatter around the world / buildings. no exact location, but spawn sockets might be fixed.
 - How to tell Value?
 	- For simplicity, once collected, all Value should be displayed right away.
+
+Anomalies
+To be further discussed. Inspired from the design logic from Zelda (small events while traversing internodes) and Stalker (weird, distinctive events)
 
 Exit Plan
 - Either use Radio Infrastructure to location Exit, or directly find the Exit by luck.

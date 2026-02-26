@@ -5,3 +5,4 @@ Fog
 obstacles
 - talk grass that slow player down + block vision? (use item to remove?)
 - puller grass like in rainworld? 
+- Gas that deplete stamina

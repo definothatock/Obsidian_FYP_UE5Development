@@ -62,6 +62,7 @@ Mystical
 - some 'high rank' signal device that stop all hostile machine for a while? (too op?)
 - throwable Symbiote?
 - Prismic's Vertice? (for range communication / just blast your way out?)
+- thing that swaps actor/pawn with player
 
 Just exist
 
@@ -100,3 +101,4 @@ Joke
  - electric cigar - autotune
  - massive toy hammer
  - cartoon egg
+ - 1965 Peel Trident
