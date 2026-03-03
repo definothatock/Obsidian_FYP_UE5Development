@@ -19,6 +19,12 @@ need some stupid ass to populate the world
 	- test mental pressure instead of just run and guns between Ai and player
 - a shooter
 	- just to test out range attacks
+- Houndeye from hl2
+- rollmine from hl2
+
+annoying
+- leech
+- 
 
 idk
 - Pinocchio

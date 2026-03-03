@@ -11,3 +11,5 @@ One for all
 Separated HP and Energy
 - Standard way, nothing fancy.
 	- When hurt, hurt. Does not affect energy.
+
+animated emoji as secondary gesture

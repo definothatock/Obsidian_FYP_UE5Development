@@ -56,6 +56,7 @@ Tool/Weapon
 - electric javelin
 - corrosive ball?
 - Spore ball (block vision and harm creature?
+- Roller bomb
 
 Mystical
 - Die Zauberflöte

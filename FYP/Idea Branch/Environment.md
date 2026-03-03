@@ -6,3 +6,11 @@ obstacles
 - talk grass that slow player down + block vision? (use item to remove?)
 - puller grass like in rainworld? 
 - Gas that deplete stamina
+- Mine
+
+Loot
+- downed machines
+- untrigger munitions (night explode if poor handled? make some sound?)
+
+just there
+- Czech hedgehog 
