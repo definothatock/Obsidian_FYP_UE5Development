@@ -18,12 +18,12 @@
             }
           },
           {
-            "id": "f37bae4fc50587a7",
+            "id": "6ec054508e198788",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FYP/Idea Branch/Gameplay.md",
+                "file": "FYP/FYP.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -38,11 +38,107 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Gameplay"
+              "title": "FYP"
+            }
+          },
+          {
+            "id": "1a58bcc51f42696b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FYP/Reflection.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Reflection"
+            }
+          },
+          {
+            "id": "d0b371b961ca1a96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FYP/FYP.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "FYP"
+            }
+          },
+          {
+            "id": "25fe466788c6488f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FYP/Core Framework (rules and mechanics).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Core Framework (rules and mechanics)"
+            }
+          },
+          {
+            "id": "e905ca116eb60d31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FYP/Core Framework (rules and mechanics).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Core Framework (rules and mechanics)"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -223,22 +319,25 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "f37bae4fc50587a7",
+  "active": "1a58bcc51f42696b",
   "lastOpenFiles": [
+    "FYP/Reflection.md",
+    "FYP/FYP.md",
     "FYP/Core Framework (rules and mechanics).md",
-    "FYP/Idea Branch/Environment.md",
-    "FYP/Idea Branch/Background.md",
-    "FYP/Idea Branch/Idea.md",
+    "FYP/Background-or-WorldBuilding.md",
+    "FYP/Art Direction.md",
+    "FYP/Collision Types.md",
     "FYP/Game Flow.md",
+    "FYP/Idea Branch/Environment.md",
     "FYP/Idea Branch/Creature.md",
     "FYP/Idea Branch/Item and Loot.md",
     "FYP/Idea Branch/Gameplay.md",
+    "FYP/Idea Branch/Scene.md",
+    "FYP/Idea Branch/Background.md",
+    "FYP/Idea Branch/Idea.md",
     "UE5/Online/Online SubSystem/Online SubSystem.md",
     "FYP/Custom Online Session Subsystem.md",
-    "FYP/Art Direction.md",
     "FYP/Other/DumbArse shit I've done.md",
-    "FYP/Background-or-WorldBuilding.md",
-    "FYP/FYP.md",
     "FYP/World Building.md",
     "Bin.md",
     "test1.md",
@@ -248,9 +347,6 @@
     "FYP/Other/Other.md",
     "FYP/Idea Branch/Games Reference.md",
     "UE5/Engine Core/Programming/C++/Lambda.md",
-    "UE5/Engine Core/Programming/C++/UE++/Complier/UE++ Compiling.md",
-    "UE5/Engine Core/Programming/C++/Preprocessor.md",
-    "UE5/Engine Core/Programming/C++/UE++/UE++.md",
     "UE5/Online/Replication",
     "UE5/Multi-threading",
     "FYP/Other",

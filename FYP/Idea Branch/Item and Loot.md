@@ -57,6 +57,8 @@ Tool/Weapon
 - corrosive ball?
 - Spore ball (block vision and harm creature?
 - Roller bomb
+- Returning pike, bg3
+
 
 Mystical
 - Die Zauberflöte

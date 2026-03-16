@@ -7,6 +7,7 @@ obstacles
 - puller grass like in rainworld? 
 - Gas that deplete stamina
 - Mine
+- anti gravity light [https://www.reddit.com/r/godot/s/8Kue66JRj3](https://www.reddit.com/r/godot/s/8Kue66JRj3 "https://www.reddit.com/r/godot/s/8Kue66JRj3")
 
 Loot
 - downed machines
@@ -14,3 +15,4 @@ Loot
 
 just there
 - Czech hedgehog 
+- sometimes working war relic

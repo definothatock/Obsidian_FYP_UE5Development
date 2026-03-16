@@ -21,6 +21,7 @@ need some stupid ass to populate the world
 	- just to test out range attacks
 - Houndeye from hl2
 - rollmine from hl2
+- A hidden monster that does not reveal itself unless shone, tho has glowing eyes, reference from anglar fish / night time preditors
 
 annoying
 - leech
@@ -28,6 +29,7 @@ annoying
 
 idk
 - Pinocchio
+- under rock? like in starbound?
 
 Cute
 - yeah we def need some cute non aggressive creature because HELL YEAH 
