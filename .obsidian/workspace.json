@@ -18,7 +18,7 @@
             }
           },
           {
-            "id": "6ec054508e198788",
+            "id": "b9eb4ff9a73dfdab",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -42,12 +42,12 @@
             }
           },
           {
-            "id": "1a58bcc51f42696b",
+            "id": "94453e7d37ff9a32",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FYP/Reflection.md",
+                "file": "FYP/Project Reflection.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -62,79 +62,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Reflection"
-            }
-          },
-          {
-            "id": "d0b371b961ca1a96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FYP/FYP.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "FYP"
-            }
-          },
-          {
-            "id": "25fe466788c6488f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FYP/Core Framework (rules and mechanics).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Core Framework (rules and mechanics)"
-            }
-          },
-          {
-            "id": "e905ca116eb60d31",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FYP/Core Framework (rules and mechanics).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Core Framework (rules and mechanics)"
+              "title": "Project Reflection"
             }
           }
         ],
@@ -319,10 +247,10 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "1a58bcc51f42696b",
+  "active": "94453e7d37ff9a32",
   "lastOpenFiles": [
-    "FYP/Reflection.md",
     "FYP/FYP.md",
+    "FYP/Project Reflection.md",
     "FYP/Core Framework (rules and mechanics).md",
     "FYP/Background-or-WorldBuilding.md",
     "FYP/Art Direction.md",

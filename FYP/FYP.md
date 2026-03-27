@@ -22,7 +22,7 @@ Always use the 5W 1H to reason the thing that you are building. It is simple yet
 - People who wants to have some fun with their friend in a Saturday night
 	- easy to pickup (control, cycle, puzzle etc.)
 	- simple cycle (simple ultimate goal)
-	- fun player-player interaction
+	- player-player interaction
 - "FriendSlop" games blowing charts gradually 
 	- There are growing demands in cooperative-focused games, where people want them easy and fun to convince friends to play with (and cheap enough)
 		- A slight in-sight: 
@@ -79,4 +79,4 @@ Extra:
 [[Other]]
 
 
-[[Reflection]]
+[[Project Reflection]]
